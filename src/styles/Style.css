@@ -1,0 +1,44 @@
+main {
+  display: flex;
+  background-color: fff;
+}
+
+#title {
+  color: #26ade4;
+  text-decoration: none;
+  font-size: 30px;
+}
+
+.hspace{
+  height: 20px;
+}
+
+.capa {
+  display: flex;
+  justify-content: center;
+  max-width: 700px
+  
+}
+
+.nav {
+  background-color: #f7bdf2;
+  border: #c7f7bd;
+  border-bottom: #26ade4;
+  border-style: solid;
+}
+
+.app-footer {
+    height: 25px;
+    display: flex;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    justify-content: center;
+  }
+  
+  .foot {
+    background-color: #f7dcbd;
+    border: #bdc1f7;
+    border-top: #e4269b;
+    border-style: solid;
+  }
